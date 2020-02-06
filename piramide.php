@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html>
-    <head>
+    <html>
         <body>
             <table width "2px" cellspacing="0px" cellpadding="0px">
                 <?php
@@ -15,5 +14,4 @@
                 </tr>
             </table>
         </body>
-    </head>
-</html>
+    </html>
